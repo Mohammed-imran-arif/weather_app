@@ -1,5 +1,5 @@
-# My Project we_video
-Welcome to my we_video project ! This project showcases my skills, projects, and experiences as a web developer.
+# weather_app project
+Welcome to my weather_app project! This project showcases my skills, projects, and experiences as a web developer.
 - Developed a live weather app using React JS to provide real-time weather updates, dynamic background changes, and error handling, enhancing the user experience and responsive features like dynamic temperature displays and live background images based on the weather conditions.
 - Tech used vite,react,css,Js,OpenWeatherMap API for fetching real-time weather data
 
