@@ -30,6 +30,7 @@ const WeatherApp = () => {
   }
 
   const search = async () => {
+    setLoading(true)
     if (location.trim() !== '') {
       const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=Metric&appid=${api_key}`
       const res = await fetch(url)
