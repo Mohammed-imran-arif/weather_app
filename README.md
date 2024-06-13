@@ -3,7 +3,7 @@ Welcome to my weather_app project! This project showcases my skills, projects, a
 - Developed a live weather app using React JS to provide real-time weather updates, dynamic background changes, and error handling, enhancing the user experience and responsive features like dynamic temperature displays and live background images based on the weather conditions.
 - Tech used vite,react,css,Js,OpenWeatherMap API for fetching real-time weather data
 
-### Weblink: [Live Website](https://we-video.netlify.app/)
+### Weblink: [Live Website](https://arifs-weather-app.netlify.app)
 
 
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/weatherApp_photo/Screenshot%20from%202024-06-13%2014-13-52.png"/>
